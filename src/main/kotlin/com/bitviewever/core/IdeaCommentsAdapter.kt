@@ -4,7 +4,7 @@ package com.bitviewever.core
  * Adapter for IDEA plugin API for manipulating
  * logical file comments for open file.
  */
-class IdeaCommentsAdapter {
+object IdeaCommentsAdapter {
 
     /**
      * Add plugin BitBucket comments update handler.
