@@ -1,3 +1,9 @@
 # Idea project files.
 /.idea/
 /BitViewver.iml
+
+# Build directory.
+/build/
+
+# Gradle hidden diractory.
+/.gradle/
