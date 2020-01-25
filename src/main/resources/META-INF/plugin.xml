@@ -28,7 +28,7 @@
   </extensions>
 
   <actions>
-    <!-- Add your actions here -->
+    <action class="com.bitviewever.core.idea.ShowLineCommentAction" id="ShowBBComments" text="ShowBBComment"/>
   </actions>
 
 </idea-plugin>
