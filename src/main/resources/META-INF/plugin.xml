@@ -1,0 +1,34 @@
+<idea-plugin>
+  <id>com.bitviewever</id>
+  <name>BitViewever</name>
+  <version>1.0</version>
+  <vendor email="the.ultimate.question.of.life@gmail.com">
+    BitViewever
+  </vendor>
+
+  <description><![CDATA[
+      Plugin for BitBucket Pull requests live review
+      in intellij IDEA.
+    ]]></description>
+
+  <change-notes><![CDATA[
+      Initial version of BitViewever (and to match 40 charcters)!
+    ]]>
+  </change-notes>
+
+  <!-- please see http://www.jetbrains.org/intellij/sdk/docs/basics/getting_started/build_number_ranges.html for description -->
+  <idea-version since-build="173.0"/>
+
+  <!-- please see http://www.jetbrains.org/intellij/sdk/docs/basics/getting_started/plugin_compatibility.html
+       on how to target different products -->
+  <depends>com.intellij.modules.platform</depends>
+
+  <extensions defaultExtensionNs="com.intellij">
+    <!-- Add your extensions here -->
+  </extensions>
+
+  <actions>
+    <!-- Add your actions here -->
+  </actions>
+
+</idea-plugin>
